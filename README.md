@@ -1,4 +1,3 @@
-# Weather-App
 # Weather App
 
 A modern, responsive web application that provides real-time weather information, forecasts, and air quality data for any city or your current location.
